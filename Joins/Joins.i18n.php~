@@ -1,0 +1,34 @@
+<?php
+/**
+	 * Internationalisation for Joins extension
+	 *
+	 * @file
+	 * @ingroup Extensions
+	 */
+$messages=array();
+$messages['en']=array(
+'Joins-desc'=>'Applied joins in MediaWiki to show results',
+'J2'=>'Joins1',
+'join' => 'Join',
+'hi-hello'=>'Hello AlbertCoder! :) This extension can be seen installed in http://202.164.53.122/~albertcoder/mediawiki-1.22.6/index.php/Special:Version ',
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
